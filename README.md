@@ -11,9 +11,6 @@ O objetivo do projeto é eliminar a fragmentação do mercado de jogos, permitin
 
 * EA App
 
-* Ubisoft Connect
-
-* GOG
 
 Assim, a plataforma funciona como um agregador de marketplaces de jogos digitais.
 
